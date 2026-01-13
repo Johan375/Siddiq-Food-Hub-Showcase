@@ -21,6 +21,14 @@ This project was developed as part of my university coursework to demonstrate pr
 - Order management and tracking
 - Responsive design for mobile and desktop
 
+## Picture Showcase
+
+## Main Page
+
+![Main Page](Main%20page.png)
+
+
+
 ---
 
 **Note:** This project is part of my academic portfolio created to showcase my technical skills for internship applications.
