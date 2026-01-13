@@ -1,7 +1,7 @@
 # Siddiq Food Hub Showcase
 
 ## Overview
-Siddiq Food Hub is a university project demonstrating full-stack web development skills for a food ordering and delivery platform. This showcase highlights my ability to design and implement modern web applications with user-friendly interfaces and robust functionality.
+Siddiq Food Hub is a university project demonstrating full-stack web development skills for a food ordering platform. This showcase highlights my ability to design and implement modern web applications with user-friendly interfaces and robust functionality.
 
 ## Purpose
 This project was developed as part of my university coursework to demonstrate practical software development skills including:
@@ -11,15 +11,38 @@ This project was developed as part of my university coursework to demonstrate pr
 - Problem-solving and project planning
 
 ## Technologies Used
-- Modern web technologies and frameworks
-- Database management systems
-- Version control with Git
+- **Backend:** Laravel (PHP Framework)
+- **Frontend:** Tailwind CSS, JavaScript
+- **Package Manager:** Node.js (npm)
+- **Database:** MySQL
+- **Development Tools:** VS Code
+- **Version Control:** Git & GitHub
 
 ## Features
-- User authentication and authorization
-- Menu browsing and ordering system
-- Order management and tracking
-- Responsive design for mobile and desktop
+
+### Customer Features
+- User registration and authentication with form validation
+- Browse vendor storefronts and menu items
+- Shopping cart and checkout process
+- Real-time order tracking with status updates
+- Loyalty program with points accumulation
+- Free meal voucher redemption
+- Feedback and rating system for vendors and menu items
+
+### Vendor Features
+- Vendor registration with admin approval workflow
+- Comprehensive dashboard with sales analytics
+- Menu management (add, update, delete items with images)
+- Order status management with customer notifications
+- Customer feedback response system
+- Business settings (commission rates, revenue goals, loyalty points configuration)
+- QR code payment integration
+
+### Admin Features
+- Centralized admin dashboard with platform analytics
+- Vendor account management (approve, deactivate, delete)
+- Customer feedback moderation
+- Commission collection system with vendor-configurable rates
 
 ## Picture Showcase
 
@@ -188,7 +211,7 @@ Admins can view all customer feedback submitted on the platform, monitor vendor 
 
 ![Admin Commission System 2](Admin/Admin%20commission%20system%202.png)
 
-The commission system allows admins to collect revenue from vendor sales. Admins receive commissions at the end of each day, with commission rates configured by individual vendors in their settings, providing flexible revenue sharing arrangements.
+The commission system allows admins to collect revenue from vendor sales. Admins receive commissions at the end of each day, with commission rates configured by individual vendors in their settings.
 
 
 
