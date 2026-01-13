@@ -94,6 +94,56 @@ The feedback system allows customers to submit reviews, complaints or suggestion
 
 Customers can rate individual food items from their completed orders. These ratings are displayed on the respective menu items on the vendor's storefront.
 
+## Vendor Segment
+
+![Vendor Register 1](Vendor/Vendor%20register%201.png)
+
+![Vendor Register 2](Vendor/Vendor%20register%202.png)
+
+The vendor registration process allows food vendors to create accounts and set up their storefronts on the platform.
+
+### Vendor Approval Process
+
+![Vendor Wait for Approval](Vendor/Vendor%20wait%20for%20approval.png)
+
+After registration, vendors must wait for admin approval before their stall is displayed on the storefront. A message will be displayed at the top of the page.
+
+![After Approval](Vendor/After%20approval.png)
+
+Once approved by the admin, the vendor's stall becomes visible on the main page storefront, allowing customers to browse and order from their menu.
+
+### Vendor Dashboard
+
+![Vendor Dashboard 1](Vendor/Vendor%20Dashboard%201.png)
+
+![Vendor Dashboard 2](Vendor/Vendor%20Dashboard%202.png)
+
+The vendor dashboard provides a comprehensive overview of business operations, including order management, sales analytics, and performance metrics to help vendors manage their storefront effectively.
+
+### Menu Management
+
+![Vendor Manage Menu 1](Vendor/Vendor%20manage%20menu%201.png)
+
+![Vendor Manage Menu 2](Vendor/Vendor%20manage%20menu%202.png)
+
+![Vendor Manage Menu 3](Vendor/Vendor%20manage%20menu%203.png)
+
+Vendors can easily manage their menu items, including adding new menu items, updating prices, modifying descriptions, add/update menu pictures and setting item availability.
+
+### Order Status Management
+
+![Vendor Update Order Status 1](Vendor/Vendor%20update%20order%20status%201.png)
+
+![Vendor Update Order Status 2](Vendor/Vendor%20update%20order%20status%202.png)
+
+![Vendor Update Order Status 3](Vendor/Vendor%20update%20order%20status%203.png)
+
+![Vendor Update Order Status 4](Vendor/Vendor%20update%20order%20status%204.png)
+
+![Vendor Update Order Status 5](Vendor/Vendor%20update%20order%20status%205.png)
+
+Vendors can manually update customer order statuses through various stages of fulfillment. These status updates are reflected in real-time on the customer's order tracking page.
+
 
 
 ---
