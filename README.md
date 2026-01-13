@@ -144,6 +144,22 @@ Vendors can easily manage their menu items, including adding new menu items, upd
 
 Vendors can manually update customer order statuses through various stages of fulfillment. These status updates are reflected in real-time on the customer's order tracking page.
 
+### Vendor Feedback Response
+
+![Vendor Respond Customer Feedback 1](Vendor/Vendor%20respond%20customer%20feedback%201.png)
+
+![Vendor Respond Customer Feedback 2](Vendor/Vendor%20respond%20customer%20feedback%202.png)
+
+Vendors can view and respond to customer feedback and reviews. This feature enables direct communication between vendors and customers, allowing vendors to address concerns, thank customers for positive reviews, and demonstrate their commitment to customer satisfaction.
+
+### Vendor Settings
+
+![Vendor Settings 1](Vendor/Vendor%20settings%201.png)
+
+![Vendor Settings 2](Vendor/Vendor%20settings%202.png)
+
+The vendor settings panel provides comprehensive control over business operations. Vendors can update their business details, adjust admin commission rates, set daily revenue goals, configure loyalty points for customers, upload vendor logo and banner images, and display their QR code for customer payment processing.
+
 
 
 ---
