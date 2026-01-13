@@ -27,6 +27,26 @@ This project was developed as part of my university coursework to demonstrate pr
 
 ![Main Page](Main%20page.png)
 
+## Customer Segment
+
+![Customer Register](Customer%20register.png)
+
+The customer registration page provides a sign-up process for new users. It includes form validation, secured password handling and a clean user interface to ensure smooth registration.
+
+### Vendor Storefront View
+
+![Vendor Storefront 1](Customer%20view%20vendor%20storefront%201.png)
+
+![Vendor Storefront 2](Customer%20view%20vendor%20storefront%202.png)
+
+Customers can browse through vendor storefronts to explore menus, view food items and add food items to cart. 
+
+### Cart & Checkout
+
+![Cart Checkout](customer%20cart%20checkout.png)
+
+The cart and checkout system allows customers to review their selected items, adjust quantities, and complete their purchase with a secure payment process.
+
 
 
 ---
