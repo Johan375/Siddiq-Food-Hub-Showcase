@@ -160,6 +160,36 @@ Vendors can view and respond to customer feedback and reviews. This feature enab
 
 The vendor settings panel provides comprehensive control over business operations. Vendors can update their business details, adjust admin commission rates, set daily revenue goals, configure loyalty points for customers, upload vendor logo and banner images, and display their QR code for customer payment processing.
 
+## Admin Segment
+
+![Admin Dashboard](Admin/Admin%20dashboard.png)
+
+![Admin Dashboard 2](Admin/admin%20db2.png)
+
+The admin dashboard provides a centralized control panel for platform management. 
+
+### Vendor Management
+
+![Admin Manage Vendor](Admin/Admin%20manage%20vendor.png)
+
+![Admin Manage Vendor 2](Admin/Admin%20manage%20vendor%202.png)
+
+Admins have full control over vendor accounts, including approving new vendor registrations, deactivating vendor accounts, and deleting vendor accounts when necessary.
+
+### Customer Feedback Moderation
+
+![Admin Customer Feedback](Admin/admin%20cust%20feedback.png)
+
+Admins can view all customer feedback submitted on the platform, monitor vendor responses, and moderate content by deleting any inappropriate or offensive feedback.
+
+### Commission System
+
+![Admin Commission System 1](Admin/Admin%20commission%20system%201.png)
+
+![Admin Commission System 2](Admin/Admin%20commission%20system%202.png)
+
+The commission system allows admins to collect revenue from vendor sales. Admins receive commissions at the end of each day, with commission rates configured by individual vendors in their settings, providing flexible revenue sharing arrangements.
+
 
 
 ---
