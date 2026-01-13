@@ -10,13 +10,16 @@ This project was developed as part of my university coursework to demonstrate pr
 - User interface/experience design
 - Problem-solving and project planning
 
-## Technologies Used
-- **Backend:** Laravel (PHP Framework)
-- **Frontend:** Tailwind CSS, JavaScript
-- **Package Manager:** Node.js (npm)
-- **Database:** MySQL
-- **Development Tools:** VS Code
-- **Version Control:** Git & GitHub
+## Tools Used
+- **Backend:** Laravel 11 (PHP Framework)
+- **Frontend:** Blade Templates, Tailwind CSS, JavaScript
+- **Build Tool:** Vite
+- **Package Managers:** Composer (PHP), NPM (Node.js)
+- **Database:** MySQL 8.4.6
+- **Database Management:** phpMyAdmin
+- **Development Environment:** XAMPP (Apache + MySQL)
+- **Development Tools:** Visual Studio Code (VS Code)
+- **Version Control:** Git
 
 ## Features
 
